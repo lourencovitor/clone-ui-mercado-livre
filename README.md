@@ -1,44 +1,52 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="https://http2.mlstatic.com/static/org-img/homesnw/mercado-libre.png?v=2" alt="Netflix logo"></a>
+</p>
 
-## Available Scripts
+<h3 align="center">mercado-livre-ui-clone</h3>
 
-In the project directory, you can run:
+---
 
-### `yarn start`
+## 📝 Table of Contents
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [Demo / Working](#demo)
+- [Getting Started](#getting_started)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## 🎥 Demo / Working <a name = "demo"></a>
 
-### `yarn test`
+<p>To view the application
+  <a href="#">
+    click here
+  </a>
+<p>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img width=400px height=200px src="./img-project/mercadoLivre.png" alt="Netflix logo"></a>
 
-### `yarn build`
+## 🏁 Getting Started <a name = "getting_started"></a>
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Prerequisites
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+What things you need to install the software and how to install them.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- node.js
+- npm
 
-### `yarn eject`
+### Installing
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Go into the project folder and run
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
+  npm install || yarn
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+right after it installs all the packages you can run the command
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```
+  npm start
+```
 
-## Learn More
+This will make the project start running in [http://localhost:3000/](http://localhost:3000)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Reference
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [Página de produto do Mercado Livre com ReactJS | UI Clone #12](https://www.youtube.com/watch?v=APs_xQ2hUOE&t=1506s)
