@@ -50,3 +50,5 @@ This will make the project start running in [http://localhost:3000/](http://loca
 ### Reference
 
 - [Página de produto do Mercado Livre com ReactJS | UI Clone #12](https://www.youtube.com/watch?v=APs_xQ2hUOE&t=1506s)
+
+- [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
