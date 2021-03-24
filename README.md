@@ -20,7 +20,7 @@
   </a>
 <p>
 
-<img width=400px height=200px src="./img-project/mercadoLivre.png" alt="Netflix logo"></a>
+<img width=800px height=400px src="./img-project/mercadoLivre.png" alt="Netflix logo"></a>
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
